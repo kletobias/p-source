@@ -1,5 +1,5 @@
 ![](img/20160828-_DSC1550tobias-klein-fotografie.jpg)
-*Image taken by Tobias Klein and all rights reserved.*
+*Image taken by Tobias Klein, all rights reserved.*
 # p-source
 
 This repository has the code files behind the articles that I post on my
